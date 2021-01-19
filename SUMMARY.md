@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What the library is for](README.md)
+* [What the libary is for](README.md)
 * [A demonstration that I hope convinces you to read on](an-example-i-hope-convinces-you-to-read-on.md)
 * [What next?](what-next.md)
 
